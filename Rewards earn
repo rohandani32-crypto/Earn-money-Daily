@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earn Daily Rewards - Simple Captcha Tasks</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background-color: #f4f7f6; text-align: center; padding: 20px; }
+        .container { background: white; max-width: 500px; margin: auto; padding: 30px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; }
+        p { color: #7f8c8d; line-height: 1.6; }
+        .btn { display: inline-block; background: #27ae60; color: white; padding: 15px 30px; text-decoration: none; border-radius: 50px; font-weight: bold; margin-top: 20px; transition: 0.3s; }
+        .btn:hover { background: #2ecc71; transform: scale(1.05); }
+        .features { text-align: left; margin-top: 20px; }
+        .feature-item { margin-bottom: 10px; color: #34495e; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>💰 Earn Money Daily</h1>
+    <p>Join thousands of users earning real rewards just by completing simple captcha entries on your phone!</p>
+    
+    <div class="features">
+        <div class="feature-item">✅ <b>No Investment:</b> 100% Free to join.</div>
+        <div class="feature-item">✅ <b>Easy Tasks:</b> Just type and earn.</div>
+        <div class="feature-item">✅ <b>Fast Payouts:</b> Get rewards directly.</div>
+    </div>
+
+    <a href="https://captchaentry.page.link/yFXpFxEWBVS34DXu6" class="btn">START EARNING NOW</a>
+    
+    <p style="font-size: 0.8em; margin-top: 30px;">*Available for mobile and PC users.</p>
+</div>
+
+</body>
+</html>
